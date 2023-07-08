@@ -91,3 +91,34 @@ a:hover{
     left: 20%;
     text-align:justify;
 }
+
+.education h1{
+    font-size:40px;
+    color:darkgoldenrod;
+    font-stretch: expanded;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position:absolute;
+    top:40%;
+    text-align: center;
+    left: 15%;
+}
+
+.education h5{
+        font-size: 20px;
+        color:rosybrown;
+        font-family:cursive;
+        position: absolute;
+        top:50%;
+        text-align: center;
+        left:15%;
+}
+
+.education p{
+    font-size: 20px;
+    color: rosybrown;
+    font-family:cursive;
+    position: absolute;
+    top:60%;
+    text-align: left;
+    left:15%;
+}
